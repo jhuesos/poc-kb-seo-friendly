@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "On every continent, there is a city named what?",
+      "answer": "Rome. Rome was of course one of the first major city-states in history, and it was the center of an advanced empire. But did you know that each continent except Antarctica, currently has its own “Rome?” One example is America."
+    },
+    {
+      "id": "2",
+      "question": "What is the official nickname of Texas?",
+      "answer": "The Lone Star State. The star is a major symbol of Texas as it reflects their pride when it became independent from Mexico in 1836."
+    },
+    {
+      "id": "3",
+      "question": "Which planet is the hottest in the solar system?",
+      "answer": "Venus. A lot of people might assume that the “red planet” (Mars) is the hottest rock in our solar system, but the honor actually goes to Venus. It’s average temperature is 880°F (471°C) ."
+    },
+    {
+      "id": "4",
+      "question": "What is the most common letter in the English alphabet?",
+      "answer": "E. Think about it. The letter “E” is in almost every word and sentence. Just try and count how many “E’s” there are in this sentence alone."
+    }
+  ]
+}
