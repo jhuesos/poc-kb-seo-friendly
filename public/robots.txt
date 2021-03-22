@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://create-react-app-lake-iota.vercel.app/sitemap.xml 
